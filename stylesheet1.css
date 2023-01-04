@@ -1,0 +1,39 @@
+body{
+	background-color: lightgray;
+}
+h1{
+	border: 10px solid black;
+	padding: 10px black;
+	font-style: italic;
+	font-size: 50px;
+	text-align: center;
+	background-color: lightblue;
+	color: black;
+	text-transform: uppercase;
+}
+		ul.bio {
+	background-color: yellow;
+	font-size: 25px;
+	border: 5px solid darkred;
+}
+p.desc{
+	font-size: 25px;
+	border: 5px solid greenyellow;
+	width: 300px;
+}
+ul.b{
+	border: 10px solid black;
+	padding: 10px black;
+	font-style: italic;
+	font-size: 25px;
+	text-align: center;
+	background-color: lightcyan;
+	color: black;
+	text-transform: uppercase;
+
+}
+p#study{
+	font-size: 25px;
+	border: 5px solid skyblue;
+	width: 300px
+}
